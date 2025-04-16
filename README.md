@@ -20,7 +20,7 @@ This file must be populated with environment-specific settings before running or
 
 #### Example `config.json`
 
-
+```json
 {
     "firebase":{
         "db": {
@@ -103,7 +103,7 @@ This file must be populated with environment-specific settings before running or
   "name": "",
   "status": "",
   "message_template": "",
-  "icc_ids": []  - optional can be  updated with uploading the csv file
+  "icc_ids": []
 }
 
 ## Upload File to Campaign
