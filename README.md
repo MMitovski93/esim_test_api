@@ -12,6 +12,7 @@ This API is built using the following technologies:
 - **Firebase Cloud Functions** — Serverless backend to deploy Express app.
 - **Firestore (Firebase)** — Stores campaign data and ICC ID associations.
 - **Firebase Storage** — Used to upload and store CSV files containing ICC IDs.
+- Before running or deploying the API, make sure you have Firebase with firebase initialized in your local environment.
 
 ### 🔧 Configuration
 
