@@ -4,7 +4,7 @@ An API for managing and running SMS campaigns using mock Telna endpoints and Twi
 
 ---
 
-## 🏗️ Architecture & Setup
+##  Architecture & Setup
 
 This API is built using the following technologies:
 
