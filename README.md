@@ -20,7 +20,7 @@ This file must be populated with environment-specific settings before running or
 
 #### Example `config.json`
 
-```json
+
 {
     "firebase":{
         "db": {
